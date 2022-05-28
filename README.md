@@ -33,27 +33,21 @@ MyEtherWallet is a doorway to the Ethereum blockchain, allowing users to manage 
 * [MEW Team](https://team.myetherwallet.com/)
 * [MEWtopia](https://www.mewtopia.com/)
 * [MEW Help Center](https://help.myetherwallet.com/)
-* [FB: https://www.facebook.com/MyEtherWallet/](https://www.facebook.com/MyEtherWallet/)
-* [Twitter: https://twitter.com/myetherwallet](https://twitter.com/myetherwallet)
-* [YouTube: https://www.youtube.com/channel/UCQU5QbObwmaHNEMsuX3uQKA](https://www.youtube.com/channel/UCQU5QbObwmaHNEMsuX3uQKA)
-* [Instagram: https://www.instagram.com/myetherwallet/](https://www.instagram.com/myetherwallet/)
 * [Vkontakte: https://vk.com/public190491855](https://vk.com/public190491855)
-* [Medium: https://medium.com/@myetherwallet](https://medium.com/@myetherwallet)
-* [Telegram: https://t.me/myetherwallet](https://t.me/myetherwallet)
-* [Github MEW Repo: https://github.com/MyEtherWallet/MyEtherWallet](https://github.com/MyEtherWallet/MyEtherWallet)
-* [Github MEW Org: https://github.com/MyEtherWallet](https://github.com/MyEtherWallet)
-* [Github Latest Releases: https://github.com/MyEtherWallet/MyEtherWallet/releases/latest](https://github.com/MyEtherWallet/MyEtherWallet/releases/latest)
+* [Telegram: https://t.me/infiniteaengus](https://t.me/infiniteaengus)
+* [Github MEW Org: https://github.com/InfiniteAengus](https://github.com/InfiniteAengus)
+* [Github Latest Releases: https://github.com/InfiniteAengus/simple-wallet/releases/latest](https://github.com/InfiniteAengus/simple-wallet/releases/latest)
 * MEW ETH Donation Address: 0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D (mewtopia.eth)
 * MEW BTC Donation Address: 1DECAF2uSpFTP4L1fAHR8GCLrPqdwdLse9
 
 ## Bug / Feature Request
 
-If you find a bug, or want a new feature added, please submit it on the [Github Issues](https://github.com/MyEtherWallet/MyEtherWallet/issues)
+If you find a bug, or want a new feature added, please submit it on the [Github Issues](https://github.com/InfiniteAengus/simple-wallet/issues)
 
 ## Getting started
 
 1. Open terminal
-2. Clone the repo: `git clone git@github.com:MyEtherWallet/MyEtherWallet.git`
+2. Clone the repo: `git clone git@github.com:InfiniteAengus/simple-wallet.git`
 3. run `npm ci` to install node packages.
 4. run `npm run build`. You can also use the offline version by opening the index file from the dist folder with your preferred browser
 5. start `npm start`
@@ -63,7 +57,7 @@ If you find a bug, or want a new feature added, please submit it on the [Github 
 ## Developers
 
 1. Open terminal
-2. Clone the repo: `git clone git@github.com:MyEtherWallet/MyEtherWallet.git`
+2. Clone the repo: `git clone git@github.com:InfiniteAengus/simple-wallet.git`
 3. run `git checkout develop`
 4. run `npm ci` to install node packages.
 5. run `npm run build`. You can also use the offline version by opening the index file from the dist folder with your preferred browser
@@ -71,7 +65,7 @@ If you find a bug, or want a new feature added, please submit it on the [Github 
 7. App should be running in `https://localhost:8080`
 
 EACCESS issue can be resolved by running: `sudo chown -R $(whoami) ~/.npm`
-For other issues, try the steps shown here: <https://github.com/MyEtherWallet/MyEtherWallet/issues/1182#issuecomment-506342875> by @tomwalton78
+For other issues, try the steps shown here: <https://github.com/InfiniteAengus/simple-wallet/issues/1182#issuecomment-506342875> by @InfiniteAengus
 
 ## Integrations
 
